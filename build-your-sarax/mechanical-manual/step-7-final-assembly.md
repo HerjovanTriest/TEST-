@@ -2,7 +2,7 @@
 
 ### Components list
 
-* [ ] 2x Feet Assembly
+* [x] 2x Feet Assembly
 * [ ] x Battery Mount Assembly
 * [ ] 1x Body Assembly
 * [ ] 1x Strip L
