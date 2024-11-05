@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/Lauter Sax1-01-01-01.png
-coverY: 0
+coverY: -11.584
 layout:
   cover:
     visible: true
