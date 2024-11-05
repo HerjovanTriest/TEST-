@@ -17,7 +17,7 @@
   * [Step 1: Battery Mount](build-your-sarax/mechanical-manual/step-1-battery-mount.md)
   * [Step 2: Legs](build-your-sarax/mechanical-manual/step-2-legs.md)
   * [Step 3: Foldable arm mount](build-your-sarax/mechanical-manual/step-3-foldable-arm-mount.md)
-  * [Step 4: Body ](build-your-sarax/mechanical-manual/step-4-body.md)
+  * [Step 4: Body](build-your-sarax/mechanical-manual/step-4-body.md)
   * [Step 5: Motor Mounts](build-your-sarax/mechanical-manual/step-5-motor-mounts.md)
   * [Step 6: ESC Mounts](build-your-sarax/mechanical-manual/step-6-esc-mounts.md)
   * [Step 7: Final Assembly](build-your-sarax/mechanical-manual/step-7-final-assembly.md)
@@ -87,3 +87,4 @@
 * [Color Coding](color-coding.md)
 * [Connectors and Wire Gauge](connectors-and-wire-gauge.md)
 * [Contribution Guidelines](contribution-guidelines.md)
+* [FAKKA](fakka.md)
