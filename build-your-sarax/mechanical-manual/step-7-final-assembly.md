@@ -3,13 +3,13 @@
 ### Components list
 
 * [x] 2x Feet Assembly
-* [ ] 1x Battery Mount Assembly
-* [ ] 1x Body Assembly
-* [ ] 1x Strip L
+* [x] 1x Battery Mount Assembly
+* [x] 1x Body Assembly
+* [x] 1x Strip L
 * [ ] 1x Strip R
-* [ ] 4x Carbon Tube 16 mm
-* [ ] 2x Carbon Tube 12 mm&#x20;
-* [ ] 2x Carbon Tube 10 mm
+* [x] 4x Carbon Tube 16 mm
+* [x] 2x Carbon Tube 12 mm&#x20;
+* [x] 2x Carbon Tube 10 mm
 
 ### Step 1: Attach 12 mm Tube to Battery Mount
 
