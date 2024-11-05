@@ -87,4 +87,3 @@
 * [Color Coding](color-coding.md)
 * [Connectors and Wire Gauge](connectors-and-wire-gauge.md)
 * [Contribution Guidelines](contribution-guidelines.md)
-* [FAKKA](fakka.md)
