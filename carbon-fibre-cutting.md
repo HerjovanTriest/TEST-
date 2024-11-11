@@ -73,8 +73,6 @@ If you have a rotary cutting tool such as a Dremel, this is a great starting poi
 
 #### Step 1 : Make sure to wear PPE.
 
-{% include ".gitbook/includes/start-with-putting-on-a-p2-....md" %}
-
 #### Step 2: Clamp the tube.
 
 Clamp the tube in a vice, make sure to support both sides.&#x20;
@@ -94,8 +92,6 @@ Be gentle and take your time sawing through the carbon tube. When too much force
 ### How to sand carbon tubes?
 
 #### Step 1: Make sure to wear PPE.
-
-{% include ".gitbook/includes/start-with-putting-on-a-p2-....md" %}
 
 #### Step 2: Clamp the tube.
 
