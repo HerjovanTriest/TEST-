@@ -1,18 +1,13 @@
 {
-    "plugins": ["multilingual-index"],
-    "pluginsConfig": {
-        "multilingual-index": {
-            "enableSuper": {
-  "type": "boolean",
-  "title": "inherit from super",
-  "required": false,
-  "default": true
-},
-"index": {
-  "type": "string",
-  "title": "default index path",
-  "required": false
-}
-        }
+  "gitbook": "2.0.1",
+  "plugins": [ "edit-link" ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/HerjovanTriest/TEST-.git",
+      "label": {
+        "EN": "Edit This Page",
+        "NL": "Edit de Pagina"
+      }
     }
+  }
 }
