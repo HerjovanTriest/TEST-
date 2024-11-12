@@ -1,9 +1,3 @@
 {
-  "plugins": ["toast"],
-  "pluginsConfig": {
-    "toast": {
-      "content": "Hello toast!",
-      "showClose": true 
-    }
-  }
+  "plugins": ["PlugIn-Test"]
 }
