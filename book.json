@@ -2,7 +2,6 @@
   "plugins": ["plugin-name"],
   "pluginsConfig": {
     "plugin-name": {
-      // Any configuration settings go here, if the plugin needs them.
     }
   }
 }
