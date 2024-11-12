@@ -1,0 +1,18 @@
+{
+    "plugins": ["multilingual-index"],
+    "pluginsConfig": {
+        "multilingual-index": {
+            "enableSuper": {
+  "type": "boolean",
+  "title": "inherit from super",
+  "required": false,
+  "default": true
+},
+"index": {
+  "type": "string",
+  "title": "default index path",
+  "required": false
+}
+        }
+    }
+}
