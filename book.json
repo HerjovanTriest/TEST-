@@ -1,7 +1,9 @@
 {
-  "plugins": ["plugin-name"],
+  "plugins": ["toast"],
   "pluginsConfig": {
-    "plugin-name": {
+    "toast": {
+      "content": "Hello toast!",
+      "showClose": true 
     }
   }
 }
