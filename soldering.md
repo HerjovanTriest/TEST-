@@ -62,7 +62,7 @@ A [soldering iron stand](https://www.adafruit.com/product/150) is very basic but
 
 Solder is a metal alloy material that is melted to create a permanent bond between electrical parts. It comes in both lead and lead-free variations with diameters between 0.5 mm and 1.5 mm being the most common. Inside the solder core is a material known as flux which helps improve electrical contact and its mechanical strength.
 
-For electronics soldering, the most commonly used type is [lead-free rosin core solder](http://www.jameco.com/z/209074-R-1-Pound-Lead-Free-Solder-Roll-99-3Sn-0-7Cu-0-031-Inch-Diameter\_209075.html). This type of solder is usually made up of a Tin/Copper alloy. You can also use leaded 60/40 (60% tin, 40% lead) rosin core solder but it’s becoming less popular due to health concerns. If you do use lead solder, make sure you have proper ventilation and that you wash your hands after use.
+For electronics soldering, the most commonly used type is [lead-free rosin core solder](http://www.jameco.com/z/209074-R-1-Pound-Lead-Free-Solder-Roll-99-3Sn-0-7Cu-0-031-Inch-Diameter_209075.html). This type of solder is usually made up of a Tin/Copper alloy. You can also use leaded 60/40 (60% tin, 40% lead) rosin core solder but it’s becoming less popular due to health concerns. If you do use lead solder, make sure you have proper ventilation and that you wash your hands after use.
 
 <img src="https://df16b0.p3cdn1.secureserver.net/wp-content/uploads/2017/04/solder-2.jpg" alt="lead and lead free solder how to solder" data-size="original">
 
@@ -136,3 +136,50 @@ Also, as the flux melts and sizzles you can see the solder flow to the edge of t
 
 There's another thing I want to mention about using flux. You can see in these pictures that after I applied the solder, it looks like there's a burn mark on the board next to it. That's actually residue from the flux in the solder I used. Since flux is corrosive to the metals, it should be cleaned off. You can use isopropyl alcohol and scrub it off. I'm using a little scrub brush with it, but a cotton swab would work also. If you leave it on, it may affect things later on.
 
+### How to solder a wire
+
+For Sarax a few wire will need to be soldered together. Here is a step by step guide in doing so.
+
+#### Step 1: Cut the wire to size
+
+<figure><img src=".gitbook/assets/IMG_20241209_094413 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+Choose an appropiate size for the wires and cut them. Make sure to leave a bit of marge.&#x20;
+
+#### Step 2: Strip the wires
+
+<figure><img src=".gitbook/assets/IMG_20241209_094527.jpg" alt=""><figcaption></figcaption></figure>
+
+Using wire strippers strip a part of the wires to expose the metal wire underneath.
+
+#### Step 3: Twist the wire
+
+Twist the wires such that the strands are neatly packed together
+
+
+
+#### Step 4: Attach the wires together.
+
+<figure><img src=".gitbook/assets/IMG_20241209_094840.jpg" alt=""><figcaption></figcaption></figure>
+
+Attach the wires together use the method shown above. Using this method the joint between the two wires will be more mechanically strong.&#x20;
+
+&#x20;
+
+#### Step 5: Twist both wires together.&#x20;
+
+<figure><img src=".gitbook/assets/IMG_20241209_094900.jpg" alt=""><figcaption></figcaption></figure>
+
+Twist and squeeze the wires together such that it looks like the wire as shown above.&#x20;
+
+#### Step 6: Heat the wire
+
+#### Step 7: Add tin
+
+#### Step 8: Remove the heat
+
+#### Step 9: Tin appearance
+
+#### Step 10: Add heatshrink
+
+#### Step 10: Shrink the heatshrink
